@@ -6,6 +6,6 @@ updated october 2023
 
 
 
-### Oct 11th Lecture Updata
+### Oct 11th Lecture Update
 
 Hi! This is Qifei.
