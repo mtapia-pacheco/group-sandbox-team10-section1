@@ -7,3 +7,5 @@ output: html_document
 
 # About Me
 My name is Mario and I'm a fourth-year statistics and data science major.
+
+.
